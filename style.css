@@ -20,7 +20,7 @@
     margin-top: 220px;
 }
 
-button{
+.restartbtn , .playbtn, .stopbtn{
     background-color: rgb(59, 214, 219);
     cursor: pointer;
     width: 190px;
